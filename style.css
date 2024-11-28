@@ -1,0 +1,14 @@
+img{
+    cursor: pointer;
+}
+form input{
+    border: none;
+    outline: none;
+}
+form input::placeholder{
+    color:black;
+    font-size: 19px;
+}
+#f{
+    border:2px solid  #3795BD;
+}
